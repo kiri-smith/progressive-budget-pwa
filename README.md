@@ -17,7 +17,7 @@ Or visit the deployed link below!
 
 ## Snapshot
 
-<img src="assets\Snip.JPG" alt="Screenshot of Fitness Tracker Application">
+<img src="assets\Snip.JPG" alt="Screenshot of Budget Tracker Example">
 
 ## Built With
 
