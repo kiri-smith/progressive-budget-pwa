@@ -2,7 +2,7 @@
 
 This application allows users to log and track transactions online and offline.  They can add expenses or deposits and the ledger will be updated with their total.  They also will be able to view their total over time, in the chart provided.  I added to starter code to enable offline capabilities, using an IndexedDB to store offline transactions, that is then transferred to the database when connection is restored.
 
-## Usage
+## Installation
 To install and edit this application:
 1. Clone the Github repository
 2. Run "npm install" in the terminal
@@ -28,7 +28,8 @@ Or visit the deployed link below!
 * [Node.js](https://nodejs.org/en/)
 * [Express](https://www.npmjs.com/package/express)
 * [MongoDB](https://www.mongodb.com/)
-* [Mongoose](https://mongoosejs.com/)
+* [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+* [Heroku](https://id.heroku.com/login)
 * [Git](https://git-scm.com/) 
 * [GitHub](github.com)
 
